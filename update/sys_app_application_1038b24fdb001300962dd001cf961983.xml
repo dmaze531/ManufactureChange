@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>Main navigation menu for Manufacturing Change activities</description>
+        <device_type>browser</device_type>
+        <hint>Manufacturing Change Application</hint>
+        <name/>
+        <order>100</order>
+        <roles>x_38566_mfg_change.man_chg</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-07 19:32:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1038b24fdb001300962dd001cf961983</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manufacturing Change</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Manufacturing Change" source="x_38566_mfg_change">c4d73e03db001300962dd001cf9619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manufacturing Change">c4d73e03db001300962dd001cf9619b8</sys_scope>
+        <sys_update_name>sys_app_application_1038b24fdb001300962dd001cf961983</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-07 19:32:37</sys_updated_on>
+        <title>Manufacturing Change</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
